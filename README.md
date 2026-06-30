@@ -68,6 +68,9 @@ On the front of the purple PCM5102A boards, there are 4 solder jumpers. For this
 * **3 (XSMT):** H *(Critical: Disables Mute)*
 * **4 (FMT):** L *(Critical: Sets format to standard I2S)*
 
+<img width="400" height="359" alt="jumper-i2s" src="https://github.com/user-attachments/assets/04dadfd8-33b1-4d1a-8ae8-badc137abffb" />
+
+
 ## Audio File Preparation
 
 The code expects a specific audio format to process the bytes correctly without overloading the CPU.
