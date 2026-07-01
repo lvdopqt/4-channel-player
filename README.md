@@ -18,6 +18,8 @@ This project transforms an ESP32 into a 4-channel audio player. It reads a singl
 
 ## Wiring / Pinout
 
+The wiring schematics drawing is [here](./assets/nome-do-arquivo.pdf)
+
 ### 1. SD Card Module (SDMMC 1-Bit Mode)
 
 * **CLK:** GPIO 14
