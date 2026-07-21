@@ -28,7 +28,7 @@ The wiring schematics drawing is [here](./assets/4ch-player-schematic.pdf)
 * **3V / VDD:** 3.3V
 * **GND:** GND
 
-> *Note: If you are using a raw plastic SD adapter instead of a proper breakout board, you MUST add 3.3kΩ pull-up resistors to the CMD, D0, and D3 lines connecting them to 3.3V.*
+> *Note: You MUST add 3.3kΩ pull-up resistors to the CMD, D0, and D3 lines connecting them to 3.3V.*
 
 ### 2. DAC 1 (I2S Port 0)
 
